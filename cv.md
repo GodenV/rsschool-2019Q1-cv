@@ -12,8 +12,7 @@
   <li>Develop your IT skills and skills, learn new approaches to the development of the SOFTWARE.<br> Work in a team. Get to know yourself.</li>
   <li>Skills: Python, C++ , HTML, CSS, Git, Django, QT ,PyQt5, some knowledge of JavaScript.</li>
   <li>I have no work experience.</li>
-  <li>none)
-</li>
+  <li>BSUIR.</li>
   <li>BSUIR (2017-2021), now learn JS in RSSchool.</li>
   <li>A2. Passed courses at BSUIR. Learn English language in school.</li>
 </ul>
