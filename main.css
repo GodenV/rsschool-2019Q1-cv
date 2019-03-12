@@ -307,8 +307,7 @@ grid-item3{
 footer{
 /* background-color: rgba(0, 0, 0, 0.445); */
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-font-size: 120%;
-
+font-size: 140%;
 background: linear-gradient(40deg,rgb(34, 40, 46),rgba(40, 47, 56, 0.637));
 border-top: 1px rgba(95, 93, 93, 0.281) inset;
 display: grid;
@@ -325,7 +324,6 @@ footer .contacts_container{
     padding:15px 80px;
     padding-left: 40%;
     padding-bottom: 0;
-    
 }
 
 
@@ -335,6 +333,7 @@ footer .contacts_container .bar {
    grid-column-gap: 10%;
    grid-auto-rows: minmax(5%,45%);
    grid-auto-columns: minmax(5%,15%);
+   font-weight: normal;
  
 }footer .contacts_container .bar a{
     border: 0px solid black;
