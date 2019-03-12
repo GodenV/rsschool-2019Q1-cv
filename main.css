@@ -9,9 +9,6 @@ a{
     color: black;
 }
 
-.empty{
-
-}
 
 body{
 display: flex;
@@ -344,13 +341,17 @@ footer .contacts_container .bar {
     background-image: url(vk.png);
     background-size: 100% 100%;
 }
-.ya{
-    background-image: url(ya.png);
-    background-size: 100% 100%;
-}
 .git{
     background-image: url(git.png);
     background-size: 100% 100%;
+}
+
+.vk:hover{
+filter: grayscale(100%) invert(85%) brightness(140%);
+}
+
+.git:hover{
+   filter: grayscale(100%) invert(100%) brightness(140%); 
 }
 
 footer .footer_menu_container {
